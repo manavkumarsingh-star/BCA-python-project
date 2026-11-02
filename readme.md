@@ -3,7 +3,7 @@
 **University:** Rungta International Skills University — School of Information Technology  
 **Program:** Bachelor of Computer Application (BCA) — First Semester, Section 1A  
 **Course:** Programming Fundamentals Using Python (`RU-100-05-00058`)  
-**Student Name:** Manav Kumar Singh  
+**Student Name:** Manav Kumar Singh  ERP-RU-26-01445
 **Repository:** [manavkumarsingh-star/BCA-python-project](https://www.google.com/search?q=https://github.com/manavkumarsingh-star/BCA-python-project)
 
 ## 1. Problem Statement
